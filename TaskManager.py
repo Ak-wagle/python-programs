@@ -1,4 +1,33 @@
 '''
+TaskManger.py v1.0
+
+Assignment : Create the Task List: Start with an empty list called tasks.
+
+Add Task:
+Ask the user to enter a task (a string), and add it to the tasks list.
+Each task should be unique (no duplicates).
+If the task already exists, notify the user and do not add it.
+
+Remove Task:
+Allow the user to remove a task by specifying its name.
+If the task is not found, display an appropriate message.
+
+View All Tasks:
+Display all tasks in the list, showing their index and name.
+If the list is empty, inform the user.
+
+Task Statistics:
+Total Tasks - Display the total number of tasks.
+Completed vs. Remaining:
+Add a mechanism to mark tasks as "completed."
+Display the number of completed and remaining tasks separately.
+
+Search Task:
+Allow the user to search for a task by entering a keyword.
+If tasks containing the keyword are found, display them with their indexes; otherwise, show a message that no matching tasks were found.
+
+Exit:
+Provide an option to exit the program.
 
 '''
 
